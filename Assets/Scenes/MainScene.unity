@@ -254,6 +254,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mouseSence: 1
   cameraFollowPlayer: {fileID: 169633513}
+  anim: {fileID: 1238752932}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -484,6 +485,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7aa229600ad1de4b99e1c3970ad7d88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!95 &1238752932 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5866666021909216657, guid: d12047c1c4223994aa2e7c90166be1df, type: 3}
+  m_PrefabInstance: {fileID: 2007700727}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1468576001
 GameObject:
   m_ObjectHideFlags: 3
